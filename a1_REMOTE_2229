@@ -1,8 +1,6 @@
 class GetSet {
 
 
-<<<<<<< HEAD
-=======
 // Method 2 - Setter
 public void setName(String N)
 {
@@ -10,5 +8,4 @@ public void setName(String N)
     // This keyword refers to current instance itself
     this.name = N;
 }
->>>>>>> new_branch
 }
